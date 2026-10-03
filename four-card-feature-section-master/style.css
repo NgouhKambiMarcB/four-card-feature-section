@@ -27,6 +27,18 @@
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         width: 300px;
     }
+    #supervisor {
+        border-top: 4px solid hsl(180, 62%, 55%);
+    }
+    #team-builder {
+        border-top: 4px solid hsl(0, 75%, 60%);
+    }
+    #karma {
+        border-top: 4px solid hsl(35, 90%, 60%);
+    }
+    #calculator {
+        border-top: 4px solid hsl(150, 100%, 75%);
+    }
     .card img {
         width: 50px;
         height: 50px;
